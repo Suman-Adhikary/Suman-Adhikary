@@ -1,3 +1,4 @@
+<img src="https://github.com/Suman-Adhikary/test/blob/main/Data%20science.png" width="2000" height="300" >
 <h1 align="center">Hi 👋, I'm Suman</h1>
 <h3 align="center">Interested in Data Science and Machine Learning.</h3>
 
